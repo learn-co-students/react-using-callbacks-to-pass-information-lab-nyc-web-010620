@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import learnSymbol from './data.js'
 import Cell from './Cell.js'
